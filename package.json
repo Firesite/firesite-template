@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "firesite-template",
+  "description": "A template for firesite apps",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
