@@ -2,7 +2,6 @@
 
 A template for generating firesite apps.
 
-
 ## Getting started
 
-Refer to [Firesite/firesite](https://github.com/Firesite/firesite).
+Refer to [Firesite/firesite](https://github.com/Firesite/firesite)
